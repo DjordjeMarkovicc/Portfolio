@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-image: url(img/back1.jpg);
+}
+.up{
+    margin-top: 20px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+ul li {
+    float: left;
+    width: 33.33%;
+    height: 50px;
+    background-color: black;
+    opacity: .8;
+    line-height: 50px;
+    text-align: center;
+    font-size: 25px;
+    
+}
+a, a:hover, a:focus {
+    text-decoration: none!important;
+    color: white!important;
+}
+
+ul li a {
+    
+    display: block;
+}
+ul li a:hover{
+    background-color: green;
+    
+}
+
+.naslov{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font: 400 37px/1.3 'Berkshire Swash', Helvetica, sans-serif;
+    text-shadow: 2px 2px 1px grey, 2px 2px 0px rgba(0,0,0,0.15);
+    
+}
+.tekst{
+    font-family: Arial;
+    color: white;
+    font-weight: bolder; 
+    margin-top: 50px;
+}
+
+.tekst1{
+    font-family: Arial;
+    color: white;
+    font-weight: bolder; 
+    font-size: 16px;
+}
+.tekst2{
+    text-align: right;
+    font-family: Arial;
+    color: white;
+    font-weight: bolder; 
+    font-size: 15px;
+}
+.tekst3{
+    text-align: center;
+    font-family: Arial;
+    color: white;
+    font-weight: bolder; 
+    font-size: 16px;
+    
+}
+.tekst4{
+    text-align: center;
+    font-family: Arial;
+    color: white; 
+    font-size: 10px;
+    clear: both;
+    font-size: 12px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    
+}
+
+.tekst5{
+    margin-top: 70px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font: 400 37px/1.3 'Berkshire Swash', Helvetica, sans-serif;
+    text-shadow: 2px 2px 1px grey, 2px 2px 0px rgba(0,0,0,0.15); 
+    font-size: 60px;
+    font-size: 12vw;
+}
+.images{
+    width: 100%;
+}
